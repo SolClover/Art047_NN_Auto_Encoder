@@ -5,4 +5,4 @@ Public repository containing materials used in the Undercomplete AutoEncoder art
 
 Data Source and Licence: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-Link to article: TBC
+Link to article: https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509#5a19-bd0fb45c9472
